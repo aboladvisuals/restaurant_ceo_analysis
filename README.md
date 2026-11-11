@@ -1,5 +1,7 @@
 # Restaurant Financial Intelligence & CEO Dashboard
 
+> **Portfolio case study:** https://aboladvisuals.github.io/projects/restaurant-financial-intelligence/
+
 ## Executive Summary
 
 A decision-focused financial analytics project built to evaluate revenue, payments, profitability, costs, financial controls and data quality for a multi-unit restaurant business.
